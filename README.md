@@ -1,4 +1,4 @@
-# Hi, I'm Max 👋
+# Hi, I'm Maksim 👋
 
 🎮 Aspiring Unity Game Developer  
 💻 C# | Unity  
