@@ -2,7 +2,7 @@
 
 🎮 Aspiring Unity Game Developer  
 💻 C# | Unity  
-🎓 IT student @ MISIS (Almalyk)
+🎓 IT student MISIS (Almalyk)
 
 ---
 
