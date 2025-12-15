@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Max 👋
 
-<!--
-**MaksimSeleznev/MaksimSeleznev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Aspiring Unity Game Developer  
+💻 C# | Unity  
+🎓 IT student @ MISIS (Almalyk)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+- Learning Unity for game development
+- Practicing C# programming
+- Building small game prototypes
+
+---
+
+## 🛠 Tech Stack
+- Unity
+- C#
+- Git / GitHub
+
+---
+
+## 🎯 Goals
+- Become a professional Unity game developer
+- Build a strong game development portfolio
+- Create and publish indie games
+
+---
+
+## 📫 Contact
+- Email: seleznevmaksim748@gmail.com
