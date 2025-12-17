@@ -2,7 +2,7 @@
 
 🎮 Aspiring Unity Game Developer  
 💻 C# | Unity  
-🎓 IT student MISIS (Almalyk)
+🎓 IT student @ MISIS (Almalyk)
 
 ---
 
@@ -23,7 +23,7 @@
 ## 🎯 Goals
 - Become a professional Unity game developer
 - Build a strong game development portfolio
-- Create and publish indie games
+- Create and publish indie indie games
 
 ---
 
